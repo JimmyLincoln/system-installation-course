@@ -24,7 +24,7 @@
 ## This is SSH Key Generating Process Image
 ![ssh-keys](./image/ssh-keys.png)
 ***
-## This is add SSH Key to your repository Image
+## This is to add SSH Key to your repository Image
 ![ssh-and-gpg](./image/ssh-and-gpg.png)
 ***
 ## This is GIT Clone Image
