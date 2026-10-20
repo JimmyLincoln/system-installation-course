@@ -2,7 +2,7 @@
 
 ## This is Bash Installation Image
 ***
-![bash-Installation](./image/bash-install.png)
+![bash-Installation](bash-install.png)
 ### The Installation was seamless
 ***
 ## This is PowerShell Installation Image
